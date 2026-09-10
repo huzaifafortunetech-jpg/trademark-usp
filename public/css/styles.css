@@ -7908,7 +7908,7 @@ p.step-description {
     width: 52px;
     padding: 12px;
     /* background: var(--primary-color); */
-    background: var(--blue-color); 
+    background: var(--blue-color);
     border-radius: 5px 0 0 5px;
     cursor: pointer;
     overflow: hidden;
